@@ -57,6 +57,16 @@ a {
     background-position: center;
 }
 
+.hero h2 {
+    color:black;
+    font-size: 35px;
+    position: relative;
+    float: right;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 750px;
+}
+
 p {
     font-size: 22px;
 }
@@ -139,10 +149,15 @@ p {
     background-image: url(../assets/images/050-screenshot.jpg);
     grid-column: 1/ span 2;
     grid-row: 1/ span 2;
+    font-size: 75px;
+    font-style: italic;
+    font-weight: bolder;
 }
 
 .item-2 {
     background-image: url(../assets/images/2020-05-02.png);
+    font-style: italic;
+    font-weight: bolder;
 }
 
 .item-3{
