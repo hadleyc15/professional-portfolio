@@ -133,13 +133,13 @@ p {
 }
 
 .item-1 {
-    background-image: url(../../../../../Pictures/Screenshots/Screenshot\ \(2\).png);
+    background-image: url(../assets/images/050-screenshot.jpg);
     grid-column: 1/ span 2;
     grid-row: 1/ span 2;
 }
 
 .item-2 {
-    background-image: url(../../../../../Pictures/Screenshots/2020-05-02.png);
+    background-image: url(../assets/images/2020-05-02.png);
 }
 
 .item-3{
