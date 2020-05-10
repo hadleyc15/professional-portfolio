@@ -173,30 +173,37 @@ p {
 }
 
 @media screen and (max-width: 980px) {
-header {
-    padding-bottom: 0;
-    justify-content: center;
-    position: relative;
-}
+    header {
+        padding-bottom: 0;
+        justify-content: center;
+        position: relative;
+    }
 
-header h1 {
-    width: 100%;
-    text-align: center;
-}
-  
-header nav ul {
-    margin-top: 20px;
-    width: 100%;
-    justify-content: center;
-}
-  
-header nav ul li a {
-    font-size: 20px;
-    text-align: center;
-    background-position: center;
-}
+    header h1 {
+        width: 100%;
+        text-align: center;
+    }
+    
+    header nav ul {
+        margin-top: 20px;
+        width: 100%;
+        justify-content: center;
+    }
+    
+    header nav ul li a {
+        font-size: 20px;
+        text-align: center;
+        background-position: center;
+    }
 
+    .About-Me {
+        height: 600px;
+    }
 
+    .grid-container {
+        width: 100%;
+    }
+}
 @media screen and (max-width: 768px) {
 
 
