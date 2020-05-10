@@ -63,7 +63,7 @@ a {
     position: relative;
     float: right;
     margin-bottom: 0;
-    margin-right: 0;
+    margin-right: 20px;
     margin-top: 750px;
 }
 
@@ -172,11 +172,31 @@ p {
     background-image: url(https://placehold.it/400x300);
 }
 
+.Contact-Me nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.Contact-Me nav ul {
+    list-style-type: none;
+}
+
+.Contact-Me nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+    text-decoration: underline;
+}
+
 @media screen and (max-width: 980px) {
     header {
         padding-bottom: 0;
         justify-content: center;
         position: relative;
+        width: 600px;
+        height: 250px;
     }
 
     header h1 {
@@ -192,7 +212,7 @@ p {
     
     header nav ul li a {
         font-size: 20px;
-        text-align: center;
+        justify-content: center;
         background-position: center;
     }
 
@@ -202,6 +222,10 @@ p {
 
     .grid-container {
         width: 100%;
+    }
+
+    .Contact-Me {
+        height: 300px;
     }
 }
 @media screen and (max-width: 768px) {
