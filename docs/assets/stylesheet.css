@@ -150,7 +150,8 @@ p {
 }
 
 .item-1 {
-    background-image: url(../assets/images/050-screenshot.jpg);
+    background-image: url();
+    width: 100%;
     grid-column: 1/ span 2;
     grid-row: 1/ span 2;
     font-size: 75px;
@@ -159,25 +160,25 @@ p {
 }
 
 .item-2 {
-    background-image: url(../assets/images/2020-05-02.png);
+    background-image: url(../assets/images/Screenshot\ \(51\).png);
     font-style: italic;
     font-weight: bolder;
 }
 
 .item-3{
-    background-image: url(../assets/images/really-cool.png);
+    background-image: url(../assets/images/Screenshot\ \(53\).png);
     font-style: italic;
     font-weight: bolder;
 }
 
 .item-4 {
-    background-image: url(../assets/images/secret.webp);
+    background-image: url(../assets/images/Screenshot\ \(52\).png);
     font-style: italic;
     font-weight: bolder;
 }
 
 .item-5 {
-    background-image: url(../assets/images/taco.webp);
+    background-image: url(../assets/images/Screenshot\ \(54\).png);
     font-style: italic;
     font-weight: bolder;
 }
