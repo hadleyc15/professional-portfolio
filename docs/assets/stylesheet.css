@@ -149,10 +149,6 @@ p {
     
 }
 
-.text ul {
-    justify-content: left;
-}
-
 .item-1 {
     background-image: url(../assets/images/Screenshot\ \(56\).png);
     background-size: contain;
