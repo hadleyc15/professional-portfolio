@@ -272,7 +272,7 @@ p {
 
     .About-Me {
         height: 400px;
-        overflow: scroll;
+        
     }
 
     .grid-container {
@@ -312,7 +312,7 @@ p {
 
     .About-Me {
         height: 200px;
-        overflow: scroll;
+      
     }
 
     .grid-container {
