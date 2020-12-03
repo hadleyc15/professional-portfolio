@@ -150,7 +150,7 @@ p {
 }
 
 .item-1 {
-    background-image: url(../assets/images/Screenshot\ \(56\).png);
+    background-image: url(../assets/images/Small-Show.png);
     background-size: contain;
     grid-column: 1/ span 2;
     grid-row: 1/ span 2;
@@ -174,7 +174,7 @@ p {
 }
 
 .item-4 {
-    background-image: url(../assets/images/Screenshot\ \(54\).png);
+    background-image: url(../assets/images/Screenshot\ \(56\).png);
     background-size: contain;
     font-style: italic;
     font-weight: bolder;
