@@ -11,7 +11,7 @@ body {
 header {
     padding: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: navy;
+    background-color: rgb(102, 102, 102);
     color: white;
 }
 
